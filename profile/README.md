@@ -6,6 +6,4 @@
 
 ## Become a Volunteer
 
-![Become a Volunteer](/profile/become-a-volunteer.png)
-
 We All Code is a volunteer-driven organization. We are always looking for volunteers to help us with our mission. If you are interested in volunteer opportunities, please visit our [volunteer page](https://weallcode.org/join-us/#volunteer).
